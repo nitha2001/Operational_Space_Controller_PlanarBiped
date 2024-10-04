@@ -26,4 +26,10 @@ This project designs an OSC framework that includes:
   ## Results
 
   
+
   
+  
+
+https://github.com/user-attachments/assets/fd14dd28-18a5-4eca-99c6-70ee072bae74
+
+
